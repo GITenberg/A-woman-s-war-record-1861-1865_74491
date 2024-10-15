@@ -1,11 +1,16 @@
 _repo: A-woman-s-war-record-1861-1865_74491
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74491-h/images/cover.jpg
 creator:
   author:
     agent_name: Collis, Septima M.
     gutenberg_agent_id: '57525'
     url: http://www.gutenberg.org/2009/agents/57525
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74491#A-woman-s-war-record-1861-1865
 gutenberg_issued: '2024-09-28'
 gutenberg_type: Text
 identifiers:
